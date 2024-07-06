@@ -36,13 +36,13 @@ This project aims to optimize renal replacement therapy for ICU patients with ac
 ## Usage
 
 1. Run the autoencoder model script:
-   <pre><code>python autoencoder/model.py</code></pre>
+   <pre><code>python autoencoder/model.ipynb</code></pre>
 
 2. Execute the graph feature extraction script:
-   <pre><code>python graph_features/feature_extraction.py</code></pre>
+   <pre><code>python graph_features/feature_extraction.ipynb</code></pre>
 
 3. Construct network biomarkers using:
-   <pre><code>python network_biomarkers/biomarker_construction.py</code></pre>
+   <pre><code>python network_biomarkers/biomarker_construction.ipynb</code></pre>
 
 
 
