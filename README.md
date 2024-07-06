@@ -2,7 +2,7 @@
 
 
 
-This repository contains the code for the research paper titled "Optimal Renal Replacement Therapy for ICU Acute Kidney Injury: A Network Biomarker Approach". The project is divided into three main components: Autoencoder, Traditional Graph Feature Engineering, and Network Biomarker Construction.
+This repository contains the code for the research paper titled " Personalized Decision System for Optimal Renal Replacement Therapy in Intensive Care Unit Acute Kidney Injury Patients via Network Biomarkers". The project is divided into three main components: Autoencoder, Traditional Graph Feature Engineering, and Network Biomarker Construction.
 
 ## Table of Contents
 - [Introduction](#introduction)
