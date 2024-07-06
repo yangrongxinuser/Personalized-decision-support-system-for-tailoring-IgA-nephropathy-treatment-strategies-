@@ -51,15 +51,18 @@ This project aims to optimize renal replacement therapy for ICU patients with ac
 
 # Autoencoder
 The autoencoder/ directory contains the script for building and running the autoencoder model used for dimensionality reduction and feature extraction.
-model.py: Defines and trains the autoencoder model.
+
+model.ipynb: Defines and trains the autoencoder model.
 
 # Traditional Graph Feature Engineering
 The graph_features/ directory contains the script for extracting traditional graph features from the data.
-feature_extraction.py: Extracts and analyzes graph-based features.
+
+feature_extraction.ipynb: Extracts and analyzes graph-based features.
 
 # Network Biomarker Construction
 The network_biomarkers/ directory includes the script for constructing and analyzing network biomarkers.
-biomarker_construction.py: Constructs network biomarkers from the extracted features.
+
+biomarker_construction.ipynb: Constructs network biomarkers from the extracted features.
 
 ## Dependencies
 
