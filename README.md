@@ -6,16 +6,16 @@ This repository contains the code for the research paper titled "Optimal Renal R
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Components](#components)
-  - [Autoencoder](#autoencoder)
-  - [Traditional Graph Feature Engineering](#traditional-graph-feature-engineering)
-  - [Network Biomarker Construction](#network-biomarker-construction)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction
+- [Installation]
+- [Usage]
+- [Components]
+  - [Autoencoder]
+  - [Traditional Graph Feature Engineering]
+  - [Network Biomarker Construction]
+- [Dependencies]
+- [Contributing]
+- [License]
 
 ## Introduction
 
@@ -24,7 +24,7 @@ This project aims to optimize renal replacement therapy for ICU patients with ac
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/renal-replacement-therapy.git
    ```
 2. Navigate to the project directory:
@@ -40,7 +40,7 @@ This project aims to optimize renal replacement therapy for ICU patients with ac
 
 
 1. Run the autoencoder model script:
-   ```bash
+   ```
    python autoencoder/model.py
    ```
 2. Execute the graph feature extraction script:
@@ -52,18 +52,7 @@ This project aims to optimize renal replacement therapy for ICU patients with ac
    python network_biomarkers/biomarker_construction.py
   ```
 
-## Project Structure
 
-renal-replacement-therapy/
-│
-├── README.md
-├── requirements.txt
-├── autoencoder/
-│   └── model.py
-├── graph_features/
-│   └── feature_extraction.py
-└── network_biomarkers/
-    └── biomarker_construction.py
 
 ## Components
 
