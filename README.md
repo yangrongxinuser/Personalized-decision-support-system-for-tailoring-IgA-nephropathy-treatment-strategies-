@@ -25,33 +25,25 @@ This project aims to optimize renal replacement therapy for ICU patients with ac
 ## Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/renal-replacement-therapy.git
-   ```
+   <pre><code>git clone https://github.com/your-username/renal-replacement-therapy.git</code></pre>
+
 2. Navigate to the project directory:
-  ```
-   cd renal-replacement-therapy
-  ```
+   <pre><code>cd renal-replacement-therapy</code></pre>
+
 3. Install the required dependencies:
- ```
-   pip install -r requirements.txt
-  ```
+   <pre><code>pip install -r requirements.txt</code></pre>
 
 ## Usage
 
-
 1. Run the autoencoder model script:
-   ```
-   python autoencoder/model.py
-   ```
+   <pre><code>python autoencoder/model.py</code></pre>
+
 2. Execute the graph feature extraction script:
-  ```
-   python graph_features/feature_extraction.py
-  ```
+   <pre><code>python graph_features/feature_extraction.py</code></pre>
+
 3. Construct network biomarkers using:
- ```
-   python network_biomarkers/biomarker_construction.py
-  ```
+   <pre><code>python network_biomarkers/biomarker_construction.py</code></pre>
+
 
 
 
