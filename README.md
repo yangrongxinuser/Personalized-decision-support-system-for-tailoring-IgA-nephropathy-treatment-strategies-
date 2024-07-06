@@ -62,7 +62,8 @@ The network_biomarkers/ directory includes the script for constructing and analy
 biomarker_construction.py: Constructs network biomarkers from the extracted features.
 
 ## Dependencies
-Requirements for running the code
+
+# Requirements for running the code
 
 ```
 matplotlib==3.7.1
