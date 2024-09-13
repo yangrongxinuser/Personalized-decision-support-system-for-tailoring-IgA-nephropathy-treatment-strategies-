@@ -1,8 +1,8 @@
-# -Optimal-Renal-Replacement-Therapy-for-ICU-Acute-Kidney-Injury-A-Network-Biomarker-Approach
+# Personalized decision support system for tailoring IgA nephropathy treatment strategies 
 
 
 
-This repository contains the code for the research paper titled " Personalized Decision System for Optimal Renal Replacement Therapy in Intensive Care Unit Acute Kidney Injury Patients via Network Biomarkers". The project is divided into three main components: Autoencoder, Traditional Graph Feature Engineering, and Network Biomarker Construction.
+This repository contains the code for the research paper titled " Personalized decision support system for tailoring IgA nephropathy treatment strategies ". The project is divided into three main components: Autoencoder, Traditional Graph Feature Engineering, and Network Biomarker Construction.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -20,7 +20,7 @@ This repository contains the code for the research paper titled " Personalized D
 
 ## Introduction
 
-This project aims to optimize renal replacement therapy for ICU patients with acute kidney injury using network biomarkers. We employ a combination of autoencoders, traditional graph feature engineering techniques, and a novel network biomarker construction method to identify key biomarkers and enhance decision-making.
+This project aims to optimize treatment strategies for IgAN patients using network biomarkers. We employ a combination of autoencoders, traditional graph feature engineering techniques, and a novel network biomarker construction method to identify key biomarkers and enhance decision-making.
 
 ## Installation
 
